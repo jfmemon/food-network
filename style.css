@@ -70,12 +70,12 @@ h1 {
     padding-right: 15%;
 }
 
-.second-portion-right h2{
+.second-portion-right h2 {
     font-size: 38px;
     color: rgb(95, 95, 95);
 }
 
-.second-portion-right p{
+.second-portion-right p {
     color: rgb(95, 95, 95);
 }
 
@@ -89,28 +89,28 @@ h1 {
     padding-right: 45px;
 }
 
-.third-portion{
-    margin-top: 5%;
+.third-portion {
+    margin-top: 6%;
 }
 
-.third-portion h1{
+.third-portion h1 {
     font-size: 38px;
     color: rgb(95, 95, 95);
 }
 
-.third-portion-top{
+.third-portion-top {
     text-align: center;
     color: rgb(95, 95, 95);
 }
 
-.third-portion-recipies{
+.third-portion-recipies {
     display: flex;
     padding-left: 4%;
     padding-right: 4%;
     margin-top: -3%;
 }
 
-.third-portion-first-recipie{
+.third-portion-first-recipie {
     width: 33.33%;
     padding: 1.5%;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
@@ -119,7 +119,7 @@ h1 {
     margin-right: 2%;
 }
 
-.third-portion-second-recipie{
+.third-portion-second-recipie {
     width: 33.33%;
     padding: 1.5%;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
@@ -129,7 +129,7 @@ h1 {
     margin-right: 2%;
 }
 
-.third-portion-third-recipie{
+.third-portion-third-recipie {
     width: 33.33%;
     padding: 1.5%;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
@@ -138,14 +138,62 @@ h1 {
     margin-left: 2%;
 }
 
-.third-portion-first-recipie img{
+.third-portion-first-recipie img {
     width: 100%;
 }
 
-.third-portion-second-recipie img{
+.third-portion-second-recipie img {
     width: 100%;
 }
 
-.third-portion-third-recipie img{
+.third-portion-third-recipie img {
     width: 100%;
+}
+
+.food-definition-color {
+    color: rgb(95, 95, 95);
+}
+
+.fourth-portion {
+    display: flex;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin: 8%;
+    border-radius: 20px;
+    padding: 2.6%;
+}
+
+.youtube {
+    width: 33.33%;
+}
+
+.youtube h1 {
+    font-size: 50px;
+    font-weight: 800;
+    color: rgb(95, 95, 95);
+}
+
+.youtube p {
+    color: rgb(95, 95, 95);
+}
+
+footer {
+    text-align: center;
+    padding-bottom: 7%;
+    padding-top: 1.8%;
+    background-color: #0e0e1a;
+}
+
+.food-color {
+    font-weight: 800;
+    color: rgb(255, 150, 80);
+}
+
+.network-color {
+    color: rgb(95, 95, 95);
+    font-weight: 800;
+}
+
+footer p{
+    color: white;
 }
