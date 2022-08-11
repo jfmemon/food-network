@@ -88,3 +88,64 @@ h1 {
     padding-left: 45px;
     padding-right: 45px;
 }
+
+.third-portion{
+    margin-top: 5%;
+}
+
+.third-portion h1{
+    font-size: 38px;
+    color: rgb(95, 95, 95);
+}
+
+.third-portion-top{
+    text-align: center;
+    color: rgb(95, 95, 95);
+}
+
+.third-portion-recipies{
+    display: flex;
+    padding-left: 4%;
+    padding-right: 4%;
+    margin-top: -3%;
+}
+
+.third-portion-first-recipie{
+    width: 33.33%;
+    padding: 1.5%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 20px;
+    margin: 4%;
+    margin-right: 2%;
+}
+
+.third-portion-second-recipie{
+    width: 33.33%;
+    padding: 1.5%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 20px;
+    margin: 4%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.third-portion-third-recipie{
+    width: 33.33%;
+    padding: 1.5%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 20px;
+    margin: 4%;
+    margin-left: 2%;
+}
+
+.third-portion-first-recipie img{
+    width: 100%;
+}
+
+.third-portion-second-recipie img{
+    width: 100%;
+}
+
+.third-portion-third-recipie img{
+    width: 100%;
+}
