@@ -70,6 +70,15 @@ h1 {
     padding-right: 15%;
 }
 
+.second-portion-right h2{
+    font-size: 38px;
+    color: rgb(95, 95, 95);
+}
+
+.second-portion-right p{
+    color: rgb(95, 95, 95);
+}
+
 .contact-me-button {
     text-decoration: none;
     color: white;
