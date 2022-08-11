@@ -1,52 +1,80 @@
-body{
+body {
     margin: 0;
     padding: 0;
     font-family: 'Poppins', sans-serif;
 }
 
-.skip-color{
-    color:  rgb(255, 150, 80);
+.skip-color {
+    color: rgb(255, 150, 80);
 }
 
-.after-skip{
+.after-skip {
     color: rgb(95, 95, 95);
 }
 
-.first-portion-left p{
+.first-portion-left p {
     color: gray;
     font-size: 18px;
 }
 
-h1{
+h1 {
     font-size: 60px;
 }
 
-.first-portion{
+.first-portion {
     display: flex;
 }
 
-.first-portion-left{
+.first-portion-left {
     padding-left: 8%;
     padding-top: 10%;
     padding-bottom: 15%;
     width: 50%;
 }
 
-.first-portion-right{
+.first-portion-right {
     padding-top: 5%;
     padding-right: 3%;
 }
 
-.first-portion img{
+.first-portion img {
     width: 100%;
-    
+
 }
 
-.button{
+.order-now-button {
     text-decoration: none;
     color: white;
     background-image: linear-gradient(to right, rgb(253, 155, 90), rgb(248, 63, 38));
     padding: 3.5%;
+    border-radius: 40px;
+    padding-left: 45px;
+    padding-right: 45px;
+}
+
+.second-portion {
+    display: flex;
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 5%;
+}
+
+.second-portion img {
+    width: 46%;
+    padding-left: 25%;
+}
+
+.second-portion-right {
+    width: 50%;
+    padding-right: 15%;
+}
+
+.contact-me-button {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(to right, rgb(253, 155, 90), rgb(248, 63, 38));
+    padding: 4%;
     border-radius: 40px;
     padding-left: 45px;
     padding-right: 45px;
