@@ -63,6 +63,8 @@ h1 {
 .second-portion img {
     width: 46%;
     padding-left: 25%;
+    position: relative;
+    top: 7px;
 }
 
 .second-portion-right {
